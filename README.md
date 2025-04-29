@@ -67,3 +67,15 @@ o, x regular hit
 - 80 character limit per row
 - dynamic display of drum lines per row: only lines which have notes on current row will be visualized
 
+## History
+
+At early 2000s, I played in a band but also composed MIDI music with Voyetra
+MIDI Orchestrator Plus. Some of the band members learned to play the guitar
+first by downloading text-based guitar tabs. Later there was Guitar Pro which
+combined MIDI playback with dynamic guitar tablature display. However, our
+drummer didn't have tabs, so I tried transcribing certain songs first as MIDI
+and then exporting them as printed, text-based drum tabs.
+
+I had ambitions high: I thought it would be cool to be able to produce tabs
+to some Tool songs with odd time signatures, E.g. "Schism" or "Lateralus". ;)
+
